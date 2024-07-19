@@ -9,6 +9,17 @@
     "lint": "next lint",
     "watch": "npx tailwindcss -i ./src/styles/input.scss -o ./src/styles/output.scss --watch"
   },
+  "description": "cynthia chelang'at built with Next.js",
+  "keywords": [
+    "farming",
+    "agriculture"
+  ],
+  "author": "Dennis Kibet R. <dennisrkibet@gmail.com> (https://denniskibet.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DennisRono/Cynthia-Chelangat.git"
+  },
+  "license": "Apache-2.0",
   "dependencies": {
     "@radix-ui/react-navigation-menu": "^1.2.0",
     "class-variance-authority": "^0.7.0",
